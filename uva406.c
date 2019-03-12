@@ -25,7 +25,7 @@ int main()
         else
             break;
      }
-     it++;
+     
      if(it%2==1){c=(c*2)-1;}
      else{
         c=c*2;
